@@ -17,6 +17,8 @@ The competition results, dataset, leaderboard, and result submissions are all ho
 
 Each task will accept up to 20 participating teams. Each team may compete in multiple tasks, and may submit multiple entries to each task.
 
+Top-performing teams on the Leaderboard will be invited to **present their solutions** and receive a
+certificate at IJCAI 2025.
 <!-- ## 🥇 Detailed Leaderboard
 [Public Leaderboard](https://safe-challenge-leaderboard-public.hf.space)
 <iframe
@@ -29,8 +31,6 @@ Each task will accept up to 20 participating teams. Each team may compete in mul
 
 ## Registration
 
-Top-performing teams on the Leaderboard will be invited to present their solutions and receive a
-certificate at IJCAI 2025.
 
 **Registration is required to participate:**
 - Sign up: [Registration Form](https://forms.office.com/r/0ZmFjYnW2p)
