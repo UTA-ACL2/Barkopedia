@@ -55,19 +55,19 @@ The competition includes eight tasks. The first six involve classifying dog voca
 detection task). All tasks are open simultaneously.
 
 - **Task 1 (✅ Open):** Dog Age Group Classification  
-  [Barkopedia Dog Age Group Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaTask11DogAgeGroupClassification)
+  [Barkopedia Dog Age Group Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogAgeGroupClassification)
 
 - **Task 2 (✅ Open):** Dog Sex Classification  
   [Barkopedia Dog Sex Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogSexClassification)
 
 - **Task 3 (✅ Open):** Dog Breed Classification  
-  [TODO](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaTask11DogAgeGroupClassification)
+  [Barkopedia Dog Breed Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogBreedClassification)
 
 - **Task 4 (✅ Open):** Dog Individual Recognition  
-  [Barkopedia Individual Dog Recognition](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaTask2IndividualDogRecognition)
+  [Barkopedia Individual Dog Recognition](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaIndividualDogRecognition)
 
 - **Task 5 (✅ Open):** Dog Activity & Environment Classification  
-  [Barkopedia Dog Activity&Environment Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaTask3DogActivityEnvironmentClassification)
+  [Barkopedia Dog Activity&Environment Classification](https://huggingface.co/spaces/ArlingtonCL2/Barkopedia_DogActivityEnvironmentClassification)
 
 - **Task 6 (✅ Open):** Dog Emotion Classification  
   [Barkopedia Dog Emotion Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogEmotionClassification)
