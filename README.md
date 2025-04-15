@@ -19,6 +19,7 @@ Each task will accept up to 20 participating teams. Each team may compete in mul
 
 Top-performing teams on the Leaderboard will be invited to **present their solutions** and receive a
 certificate at IJCAI 2025.
+
 <!-- ## 🥇 Detailed Leaderboard
 [Public Leaderboard](https://safe-challenge-leaderboard-public.hf.space)
 <iframe
