@@ -84,5 +84,5 @@ Each task includes a corresponding dataset with a dataset card available on its 
 
 ## 🤖 Result Submission
 
-Please follow the instruction of each specific challenge in HuggingFace.
+In each specific competition page, click bottom left button `Login with Hugging Face` to grant the credential and submit your submission file. Please follow the instruction of each specific challenge in HuggingFace.
 
