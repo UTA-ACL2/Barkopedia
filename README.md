@@ -54,29 +54,21 @@ in the subject line)
 The competition includes eight tasks. The first six involve classifying dog vocalization by categories such as individual, breed, sex, age, environment, etc. The last two tasks focuses on audio denoising to extract clean dog barks from noisy recordings (either as a sound source separation or sound event
 detection task). All tasks are open simultaneously.
 
-- **Task 1 (✅ Open):** Dog Age Group Classification  
-  [Barkopedia Dog Age Group Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogAgeGroupClassification)
+- **Task 1 (✅ Open):** [Dog Age Group Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogAgeGroupClassification)
 
-- **Task 2 (✅ Open):** Dog Sex Classification  
-  [Barkopedia Dog Sex Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogSexClassification)
+- **Task 2 (✅ Open):** [Dog Sex Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogSexClassification)
 
-- **Task 3 (✅ Open):** Dog Breed Classification  
-  [Barkopedia Dog Breed Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogBreedClassification)
+- **Task 3 (✅ Open):** [Dog Breed Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogBreedClassification)
 
-- **Task 4 (✅ Open):** Dog Individual Recognition  
-  [Barkopedia Individual Dog Recognition](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaIndividualDogRecognition)
+- **Task 4 (✅ Open):** [Individual Dog Recognition](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaIndividualDogRecognition)
 
-- **Task 5 (✅ Open):** Dog Activity & Environment Classification  
-  [Barkopedia Dog Activity&Environment Classification](https://huggingface.co/spaces/ArlingtonCL2/Barkopedia_DogActivityEnvironmentClassification)
+- **Task 5 (✅ Open):** [Dog Activity & Environment Classification](https://huggingface.co/spaces/ArlingtonCL2/Barkopedia_DogActivityEnvironmentClassification)
 
-- **Task 6 (✅ Open):** Dog Emotion Classification  
-  [Barkopedia Dog Emotion Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogEmotionClassification)
+- **Task 6 (✅ Open):** [Dog Emotion Classification](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogEmotionClassification)
 
-- **Task 7 (✅ Open):** Dog Vocal Separation (DVS)  
-  [Barkopedia Dog Vocal Separation](https://huggingface.co/spaces/ArlingtonCL2/Barkopedia-Dog_Vocal_Separation)
+- **Task 7 (✅ Open):** [Dog Vocal Separation (DVS)](https://huggingface.co/spaces/ArlingtonCL2/Barkopedia-Dog_Vocal_Separation)
 
-- **Task 8 (✅ Open):** Dog Vocal Detection (DVD)  
-  [Barkopedia Dog Vocal Detection](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogVocalDetectionChallenge)
+- **Task 8 (✅ Open):** [Dog Vocal Detection (DVD)](https://huggingface.co/spaces/ArlingtonCL2/BarkopediaDogVocalDetectionChallenge)
 
 ## 📈 Data
 
