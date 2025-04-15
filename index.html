@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Barkopedia</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
+  <style>
+    .markdown-body {
+      max-width: 900px;
+      margin: auto;
+      padding: 2em;
+    }
+  </style>
+</head>
+<body>
+  <div id="markdown-content" class="markdown-body">Loading Barkopedia...</div>
+
+  <script>
+    fetch('README.md')
+      .then(res => res.text())
+      .then(md => {
+        document.getElementById('markdown-content').innerHTML = marked.parse(md);
+      })
+      .catch(err => {
+        document.getElementById('markdown-content').innerHTML = 'Failed to load Barkopedia.';
+        console.error(err);
+      });
+  </script>
+</body>
+</html>
