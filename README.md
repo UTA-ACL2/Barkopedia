@@ -15,6 +15,8 @@ This challenge, hosted at [IJCAI 2025](https://2025.ijcai.org/), addresses these
 
 The competition results, dataset, leaderboard, and result submissions are all hosted on Hugging Face. So if you don’t have a Hugging Face account yet, please register for one. Then sign up here to participate and stay informed: [Registration Form](https://forms.office.com/r/0ZmFjYnW2p)
 
+Each task will accept up to 20 participating teams. Each team may compete in multiple tasks, and may submit multiple entries to each task.
+
 <!-- ## 🥇 Detailed Leaderboard
 [Public Leaderboard](https://safe-challenge-leaderboard-public.hf.space)
 <iframe
@@ -25,9 +27,9 @@ The competition results, dataset, leaderboard, and result submissions are all ho
 ></iframe> 
 -->
 
-## 🏆 Prize
+## Registration
 
-Top-performing solutions may be eligible for research grants to support continued development.
+Top-performing solutions may be eligible for participanting in IJCAI 2025.
 
 **Registration is required to participate:**
 - Sign up: [Registration Form](https://forms.office.com/r/0ZmFjYnW2p)
