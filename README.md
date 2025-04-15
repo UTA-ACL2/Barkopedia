@@ -29,7 +29,8 @@ Each task will accept up to 20 participating teams. Each team may compete in mul
 
 ## Registration
 
-Top-performing solutions may be eligible for participanting in IJCAI 2025.
+Top-performing teams on the Leaderboard will be invited to present their solutions and receive a
+certificate at IJCAI 2025.
 
 **Registration is required to participate:**
 - Sign up: [Registration Form](https://forms.office.com/r/0ZmFjYnW2p)
