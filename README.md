@@ -40,9 +40,9 @@ certificate at IJCAI 2025.
 
 ## 📜 Important Dates
 
-- **04/15/2025:** Competition announcement and training data release  
-- **05/15/2025:** Participant registration deadline  
+- **04/15/2025:** Competition opens for registration and training data release  
 - **06/01/2025:** Validation data and baseline results released  
+- **06/15/2025:** Registration deadline  
 - **07/01/2025:** Submission portal opens for test data  
 - **07/15/2025:** Final submission deadline  
 - **08/01/2025:** Preliminary results announced; feedback period opens  
