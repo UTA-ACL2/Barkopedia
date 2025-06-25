@@ -4,8 +4,10 @@
 
 ## 📣 Updates
 
-**2025-04-15**  
-- Competition officially launches; training data is released.
+**Jun. 1st, 2025**\
+Validation data and baseline results released.\
+**Apr. 15th, 2025**\
+Competition officially launches; training data is released.
 
 ## 📊 Overview
 
