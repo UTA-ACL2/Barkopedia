@@ -46,9 +46,10 @@ certificate at IJCAI 2025.
 - **07/01/2025:** Submission portal opens for test data  
 - **07/15/2025:** Final submission deadline  
 - **08/01/2025:** Preliminary results announced; feedback period opens  
-- **08/15/2025:** Deadline for challenge reports and code submission  
-- **08/30/2025:** Final results and winner announcement  
-- **09/15/2025:** Presentation of winning solutions at IJCAI 2025
+- **08/15/2025:** Deadline for challenge reports and code submission
+  
++ **08/15/2025:** Final results and winner announcement  
++ **Presentation of winning solutions at IJCAI 2025** (Detailed time will be announced as soon as possible)
 
 For questions regarding this challenge, please contact: **uta.acl2@gmail.com** (with Barkopedia
 in the subject line)
