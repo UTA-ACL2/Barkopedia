@@ -4,7 +4,9 @@
 
 ## 📣 Updates
 
-**Jul. 1st (~8th), 2025**\
+**Jul. 8th, 2025**\
+The submission deadline is extended for 3 days.\
+**Jul. 1st, 2025**\
 Test dataset for each task is released.\
 **Jun. 1st, 2025**\
 Validation data and baseline results released.\
@@ -48,11 +50,10 @@ certificate at IJCAI 2025.
 - **06/01/2025:** Validation data and baseline results released  
 - **06/15/2025:** Registration deadline  
 - **07/01/2025:** Submission portal opens for test data  
-- **07/15/2025:** Final submission deadline  
-- **08/01/2025:** Preliminary results announced; feedback period opens  
+- ~**07/15/2025:**~ **07/18/2025:** Final submission deadline  
+- ~**08/15/2025:**~ **07/22/2025:** Final results and winner announcement  
 - **08/15/2025:** Deadline for challenge reports and code submission
   
-+ **08/15/2025:** Final results and winner announcement  
 + **Presentation of winning solutions at IJCAI 2025** (Detailed time will be announced as soon as possible)
 
 For questions regarding this challenge, please contact: **uta.acl2@gmail.com** (with Barkopedia
