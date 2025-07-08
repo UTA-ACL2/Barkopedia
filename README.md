@@ -4,6 +4,8 @@
 
 ## 📣 Updates
 
+**Jul. 1st (~8th), 2025**\
+Test dataset for each task is released.\
 **Jun. 1st, 2025**\
 Validation data and baseline results released.\
 **Apr. 15th, 2025**\
