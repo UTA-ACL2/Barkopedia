@@ -6,10 +6,14 @@
 
 **Jul. 8th, 2025**\
 The submission deadline is extended for 3 days.\
+The result announcement date is changed to Jul. 22nd.
+
 **Jul. 1st, 2025**\
-Test dataset for each task is released.\
+Test dataset for each task is released.
+
 **Jun. 1st, 2025**\
-Validation data and baseline results released.\
+Validation data and baseline results released.
+
 **Apr. 15th, 2025**\
 Competition officially launches; training data is released.
 
