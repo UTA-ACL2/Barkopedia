@@ -6,7 +6,8 @@
 
 **Jul. 8th, 2025**\
 The submission deadline is extended for 3 days.\
-The result announcement date is changed to Jul. 22nd.
+The result announcement date is changed to Jul. 22nd.\
+$\quad$ - We bring forward the announcement date to give winners the period to make travel arrangements to IJCAI
 
 **Jul. 1st, 2025**\
 Test dataset for each task is released.
